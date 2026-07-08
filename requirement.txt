@@ -1,0 +1,11 @@
+dotenv
+langchain_community
+langchain-text-splitters
+langchain-core
+ipykernel
+langchain-groq
+bs4
+langchain_chroma
+langchain-google-genai
+langchain
+langchain-classic
